@@ -1,5 +1,6 @@
 import React from 'react'
-import { Recorder, Calendar } from '../index'
+import { Recorder } from '../index'
+import Calendar from '../Calendar/Calendar'
 
 function App() {
   return (

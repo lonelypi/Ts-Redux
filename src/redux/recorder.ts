@@ -1,5 +1,5 @@
-import { Action } from "redux"
-import { RootState } from "./store"
+import { Action } from 'redux'
+import { RootState } from './store'
 
 interface RecorderState {
   dateStart: string

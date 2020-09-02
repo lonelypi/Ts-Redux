@@ -15,4 +15,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 )
-//npx concurrently -k "json-server --watch json-server/db.json --port 3001" "npm start"
+//npx concurrently -k 'json-server --watch json-server/db.json --port 3001' 'npm start'
